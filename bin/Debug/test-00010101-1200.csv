@@ -1,0 +1,8 @@
+	{
+		"name":"ecommerce logs",
+		"list":[
+			{ "code":200, "host":"myshop.com","path":"/product/123", "durationMs":89},
+			{ "code":404, "host":"myshop.com","path":"/product/sdf456", "durationMs":58},
+			{ "code":200, "host":"myshop.com","path":"/product/789", "durationMs":120}
+		]	
+	}
